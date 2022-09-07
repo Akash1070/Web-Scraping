@@ -5,8 +5,8 @@ Web scraping is the process of extracting and processing large amounts of data f
 
 scrape data from websites using great Python Libraries like:
 
-BeautifulSoup: 
-1) prettify
+ 
+1) BeautifulSoup: prettify
 2) Requests
 3) Selenium
 4) Scrapy
