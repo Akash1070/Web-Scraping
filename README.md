@@ -3,13 +3,17 @@
 
 Web scraping is the process of extracting and processing large amounts of data from the web. Web scraping is a great skill for anyone to have especially if you are someone who processes and analyzes large amounts of datasets, the ability to scrape data from the web is a very useful skill. There maybe a situation where you find data from the web, and there is no direct way to download it, web scraping will be your saviour and using Python makes it easier to extract the data into a useful form that can be processed and analyzed. 
 
-scrape data from websites using great Python Libraries like:
+**WEB SCRAPING** of following pages:
+1) Amazon Webpage
+2) Wikipedia - Artificial Intelligence Page
+3) ISB Data
 
- 
+scrape data from websites using great Python Libraries like:
 1) BeautifulSoup: prettify
 2) Requests
 3) Selenium
 4) Scrapy
+
 ## Authors
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
